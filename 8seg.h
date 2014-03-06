@@ -1,0 +1,42 @@
+
+#ifndef _8SEG_H
+#define _8SEG_H
+
+#define _8SEG_NUM_0 0b11000000
+#define _8SEG_NUM_1 0b11111001
+#define _8SEG_NUM_2 0b10100100
+#define _8SEG_NUM_3 0b10110000
+#define _8SEG_NUM_4 0b10011001
+#define _8SEG_NUM_5 0b10010010
+#define _8SEG_NUM_6 0b10000010
+#define _8SEG_NUM_7 0b11111000
+#define _8SEG_NUM_8 0b10000000
+#define _8SEG_NUM_9 0b10010000
+#define _8SEG_NUM_A 0b10001000
+#define _8SEG_NUM_B 0b10000011
+#define _8SEG_NUM_C 0b10100111
+#define _8SEG_NUM_D 0b10100001
+#define _8SEG_NUM_E 0b10000110
+#define _8SEG_NUM_F 0b10001110
+
+const char _8SEG_NUM[]={
+	_8SEG_NUM_0,
+	_8SEG_NUM_1,
+	_8SEG_NUM_2,
+	_8SEG_NUM_3,
+	_8SEG_NUM_4,
+	_8SEG_NUM_5,
+	_8SEG_NUM_6,
+	_8SEG_NUM_7,
+	_8SEG_NUM_8,
+	_8SEG_NUM_9,
+	_8SEG_NUM_A,
+	_8SEG_NUM_B,
+	_8SEG_NUM_C,
+	_8SEG_NUM_D,
+	_8SEG_NUM_E,
+	_8SEG_NUM_F
+};
+	
+	
+#endif
